@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MERN Full-Stack Project**
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **Advanced Java**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xvZ3IiQm9tH-17V5Anzxhycll1aqwlkR/view?usp=drive_link](https://drive.google.com/file/d/1xvZ3IiQm9tH-17V5Anzxhycll1aqwlkR/view?usp=drive_link)
 
-- ⚡ Fun fact **Crazy Programmer, Developer**
+- ⚡ Fun fact **Crazy Programmer with Development skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

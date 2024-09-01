@@ -19,11 +19,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@chandreshsahu2022](https://medium.com/@chandreshsahu2022)
 
-- 💬 Ask me about **Java, DSA, React**
+- 💬 Ask me about **Java, DSA, ReactJS**
 
 - 📫 How to reach me **chandreshsahu2022@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xvZ3IiQm9tH-17V5Anzxhycll1aqwlkR/view?usp=drive_link](https://drive.google.com/file/d/1xvZ3IiQm9tH-17V5Anzxhycll1aqwlkR/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jXAvPq8JIsfyxFiEgx2v8dif9i_fHYL4/view?usp=sharing](https://drive.google.com/file/d/1jXAvPq8JIsfyxFiEgx2v8dif9i_fHYL4/view?usp=sharing)
 
 - ⚡ Fun fact **Crazy programmer with strong development skills**
 
